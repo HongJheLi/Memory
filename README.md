@@ -1,2 +1,9 @@
-# Memory
-Any details.
+# NOTE
+
+## Timezone
+
+* Asia/Taipei
+
+## Language
+
+* zh-TW
